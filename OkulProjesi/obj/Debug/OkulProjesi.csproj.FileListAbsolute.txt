@@ -1,0 +1,17 @@
+C:\Users\emre\Desktop\c# eğitim\OkulProjesi\bin\Debug\OkulProjesi.exe.config
+C:\Users\emre\Desktop\c# eğitim\OkulProjesi\bin\Debug\OkulProjesi.exe
+C:\Users\emre\Desktop\c# eğitim\OkulProjesi\bin\Debug\OkulProjesi.pdb
+C:\Users\emre\Desktop\c# eğitim\OkulProjesi\obj\Debug\OkulProjesi.csproj.AssemblyReference.cache
+C:\Users\emre\Desktop\c# eğitim\OkulProjesi\obj\Debug\OkulProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\emre\Desktop\c# eğitim\OkulProjesi\obj\Debug\OkulProjesi.Form1.resources
+C:\Users\emre\Desktop\c# eğitim\OkulProjesi\obj\Debug\OkulProjesi.Properties.Resources.resources
+C:\Users\emre\Desktop\c# eğitim\OkulProjesi\obj\Debug\OkulProjesi.csproj.GenerateResource.cache
+C:\Users\emre\Desktop\c# eğitim\OkulProjesi\obj\Debug\OkulProjesi.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\c# eğitim\OkulProjesi\obj\Debug\OkulProjesi.exe
+C:\Users\emre\Desktop\c# eğitim\OkulProjesi\obj\Debug\OkulProjesi.pdb
+C:\Users\emre\Desktop\c# eğitim\OkulProjesi\obj\Debug\OkulProjesi.FrmOgranciNotlar.resources
+C:\Users\emre\Desktop\c# eğitim\OkulProjesi\obj\Debug\OkulProjesi.FrmOgretmen.resources
+C:\Users\emre\Desktop\c# eğitim\OkulProjesi\obj\Debug\OkulProjesi.FrmKulup.resources
+C:\Users\emre\Desktop\c# eğitim\OkulProjesi\obj\Debug\OkulProjesi.FrmDersler.resources
+C:\Users\emre\Desktop\c# eğitim\OkulProjesi\obj\Debug\OkulProjesi.FrnOgrenci.resources
+C:\Users\emre\Desktop\c# eğitim\OkulProjesi\obj\Debug\OkulProjesi.FrmSınavNotlar.resources
